@@ -1,5 +1,5 @@
 /**
- * window_led_service
+ * LED-Service
  * @author Curt Henrichs
  * @date 1-23-2018
  *

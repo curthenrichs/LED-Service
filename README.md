@@ -1,6 +1,8 @@
 # LED-Service
 LED strip IR blaster for Arduino ESP8266 that exposes a RESTful service.
 
+Note: This is an old project for an LED strip I no longer have. 
+
 I built this to control a IR remote-controlled LED strip that my roommate had setup around the living room window of our apartment. At the time it was only really novelty where I would send postman requests to the device. I have not set this system back up since I moved but perhaps someday in the future it will get more use.
 
 REST API and single client server module to expose LED controller functionality to the network. The functionality is broken down to setting state of the controller either through a raw byte command or sending a message to a valid route. The other functionality is server specific such as displaying documentation, routing, and state cache.
